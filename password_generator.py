@@ -1,4 +1,4 @@
-#Password Generator Project
+# Password Generator Project
 from random import randint, choice, shuffle
 
 
